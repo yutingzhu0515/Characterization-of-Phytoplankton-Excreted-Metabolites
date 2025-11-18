@@ -21,11 +21,15 @@ Step3_filtering_and_matrix_correction.m
 
 The corrected data were processed with the following script to choose the SIL-IS type and ion mode:
 
+scripts used: 
+
 Step4_combineandsort_Yuting_version.m
 
 -----
 
 Finally, concentration data were corrected with media blanks and the final output table includes nanomolar concentrations, cell-specific concentrations, carbon concentrations, and % contritbution to phytoplankton-excretted DOC.
+
+scripts used: 
 
 Step5_normalizedAbundance_two_SILIS.m
 
