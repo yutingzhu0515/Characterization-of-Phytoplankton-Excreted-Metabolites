@@ -38,6 +38,8 @@ Step5_normalizedAbundance_two_SILIS.m
 The repository is to support a manuscript titled: Characterization of Phytoplankton-Excreted Metabolites Mediating Carbon Flux through the Surface Ocean
 Now available in preprint at: https://doi.org/10.1101/2025.11.04.686593
 
+[![DOI](https://zenodo.org/badge/1044694196.svg)](https://doi.org/10.5281/zenodo.18529321)
+
 -----
 Contact: Yuting Zhu (y2zhu@odu.edu), Assistant Professor, Old Dominion University
 
